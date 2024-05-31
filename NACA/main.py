@@ -4,8 +4,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-
-
 # demander à l'utilisateur le numéro du profil NACA à 4 chiffres symétriques
 numero_profil = int(input('Quels sont les 2 derniers chiffres du profil NACA symétrique NACA00XX ?'))
 corde = float(input('Quel est la corde du profil en mètres ?'))
